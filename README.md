@@ -16,8 +16,10 @@
 
 Xin gửi lời cảm ơn đến các thành viên đã tích cực trong việc xây dựng đồ án một cách tốt nhất. Xin cảm ơn Thầy **Hoàn Thành** đã tích cực hướng dẫn trong quá trình thực hiện đồ án.
 
-**Application Demo**
+**Application Demo**:
+
 ![Screenshot 2023-12-21 133944](https://github.com/Zathunly/NLP_Final_UEH/assets/14986![Screenshot 2023-12-21 133849](https://github.com/Zathunly/NLP_Final_UEH/assets/149863946/91bffccf-eeac-4ba1-9eae-c4a6e1e67eb5)
 3946/825b3387-5de7-48cf-bc7b-5cf1c979aa5a)![Screenshot 2023-12-21 133723](https://github.com/Zathunly/NLP_Final_UEH/assets/149863946/332254ec-7299-45c8-a50f-ebef0e02f15e)
+
 ![Screenshot 2023-12-21 134053](https://github.com/Zathunly/NLP_Final_UEH/assets/149863946/3aa2b443-da27-4254-ad60-d4b03154c3c2)
 
